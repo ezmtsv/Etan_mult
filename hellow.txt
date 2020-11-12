@@ -1,3 +1,0 @@
-New GIT create!
-
-commit2
