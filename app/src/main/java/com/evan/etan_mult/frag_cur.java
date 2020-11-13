@@ -310,6 +310,10 @@ void init_lay(){
         }
     }
     ////////////////////////////////////////////////
+    void test(){
+
+    }
+    ////////////////////////////////////////////////
     public class check_statusUSB extends Thread {
         // Конструктор
         check_statusUSB() {
@@ -399,11 +403,7 @@ void init_lay(){
                 break;
             case 4:
                 break;
-            case 5:
-                break;
-            case 6:
 
-                break;
         }
     }
     /////////////////////////////////////////////////////

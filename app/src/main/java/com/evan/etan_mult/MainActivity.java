@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
     static Bitmap btm_grey_rms, btm_grey_arif, btm_grey_rect, btm_grey_amp;                                         // битмапы зеленых кнопок 3ряд
     Bitmap btm_sreen1;
     Bitmap btm_butgrey_auto_range, btm_butgreen_auto_range;
-
+///////////////////////////////////////
     static Bitmap btm_but_green_change, btm_but_grey_change;
     static Bitmap btm_but_green_change_lay2, btm_but_grey_change_lay2;
     static Bitmap btm_usb_off, btm_usb_on, btm_usb_connect;
